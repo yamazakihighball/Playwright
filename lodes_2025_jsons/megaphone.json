@@ -1,0 +1,33 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/05/Megaphone-06.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/05/Megaphone-05.jpg"
+	],
+	"products": {
+		"MEGAPHONE": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=51883&variantID=51466&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/05/524IS20E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/05/Megaphone-2D.pdf",
+			"diagram_3d": null,
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/05/Megaphone.png",
+			"light_source": [
+				"E27 T30\nTubular LED\n1x Max 25 W\nW/L max 30 cm\nW/L max 11,81\""
+			],
+			"skus": {
+				"52580 4000": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/05/Megaphone-Chrome.png"
+				},
+				"52580 4300": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/05/Megaphone-GlossySmoke.png"
+				}
+			}
+		}
+	}
+}

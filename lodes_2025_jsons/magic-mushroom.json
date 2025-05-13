@@ -1,0 +1,33 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2023/07/Magic-Mushroom-01.jpg",
+		null,
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"products": {
+		"MAGIC MUSHROOM": {
+			"mount": "table",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45841&variantID=45352&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/522IS80E0001_Rev00_CE_PRINT-1.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/Magic-Mushroom-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/3d_Magic_Mushroom.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/Magic-Mushroom-1.png",
+			"light_source": [
+				"T30 Tubular\nL / W 225 mm\n1 × 25 W"
+			],
+			"skus": {
+				"52280 0000": {
+					"metal": "Black",
+					"colour": "Aqua",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/Magic-Mushroom-2.png"
+				}
+			}
+		}
+	}
+}

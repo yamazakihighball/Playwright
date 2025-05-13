@@ -1,0 +1,69 @@
+[
+	{
+		"mainpage_info": [
+			{
+				"Code Name": "spider-3319",
+				"Product Name": "Spider",
+				"Style": "Floor",
+				"Designer": "Design Joe Colombo, 1965",
+				"Product Description": "Designed by Joe Colombo in 1965, the Spider lamp is composed of a single luminaire in fire-painted metal, expressly designed for a special horizontal spot light bulb, mounted on a chromed vertical rod and supported by a painted metal base. A melamine joint allows the inclination and repositioning of the reflector. The Spider family includes a table lamp and a floor lamp and is available in different colours."
+			}
+		],
+		"slider_imgs": [
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-3319-1920x1080-slider01.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-3319-1920x1080-slider02.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-3319-1920x1080-slider03.jpg"
+			}
+		],
+		"technical_data": [],
+		"technical_info": [
+			{
+				"Technical Information Code": "3319",
+				"Technical Information Source Bulb": "1 x max 48 W G9",
+				"Technical Information Materia": "Metal / Aluminium",
+				"Technical Information Color": [
+					{
+						"Code": "3319.GM",
+						"Colour": "Black"
+					},
+					{
+						"Code": "3319.NE",
+						"Colour": "Mustard Yellow"
+					}
+				]
+			}
+		],
+		"technical_drawings": [
+			{
+				"2D models - DWG": "https://www.oluce.com/wp-content/uploads/2017/04/spider3319-2d-dwg.zip"
+			},
+			{
+				"3D models - DWG": "https://www.oluce.com/wp-content/uploads/2017/04/Spider_3319_3D-DWG.zip"
+			},
+			{
+				"3D models - 3DS": "https://www.oluce.com/wp-content/uploads/2017/04/Spider3319-3D-3DS.zip"
+			}
+		],
+		"technical_sheet": [
+			{
+				"Standard Technical Data": "https://www.oluce.com/wp-content/uploads/2024/07/OLU-spider-3319-standard-technical-data.pdf"
+			}
+		],
+		"download_info": [
+			{
+				"Product details": ""
+			},
+			{
+				"Assembly Instructions": "https://www.oluce.com/wp-content/uploads/2017/04/spider3319-istruzioni-montaggio.pdf"
+			},
+			{
+				"Assembly Instructions – UL certification": ""
+			}
+		]
+	}
+]

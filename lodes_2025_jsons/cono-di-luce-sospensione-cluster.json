@@ -1,0 +1,71 @@
+{
+	"description": "Lodes and internationally renowned artist and designer Ron Arad have joined forces to create Cono di Luce, a one-of-a-kind suspension lamp that combines the former’s cutting-edge expertise with the latter’s creativity.\n\nThe technology enclosed in Cono di Luce defines its identity. Using a flexible printed circuit board in a groundbreaking way, encapsulated within an element as simple as a transparent Pyrex® cone, the lamp exudes a dualism between on and off that is easily discernible.\n\nThe frame, also made of PCB, thanks to its 1.6 mm thickness, has several functions: to provide support for the lamp and enable it to be switched on, as well as to keep the PCB sheet in the right position.\n\nWhen illuminated, Cono di Luce reveals its true decorative essence, boasting an optical interplay of lights, shadows, and overlapping patterns that showcase the designer’s creative flair and Lodes’ renowned manufacturing expertise.\n\nIt is available in three frame finishes: red, grey and gold, and in two variants, table and suspension.\n\nCono di Luce is proposed as a design element for sophisticated environments, embodying the values shared by Lodes and Ron Arad: to create a collection that is both accessible and highly efficient in light.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-08.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-09.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-02.jpg"
+	],
+	"products": {
+		"Cono di Luce small": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=47925&variantID=47667&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/01/210IS10E0001_Rev00_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/01/21010_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-Small-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/21010ME_Sospensione-45.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-si-Luce-small.png",
+			"light_source": [
+				"↙ 2700 K\n↙ 7 W\n↙ 1307 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"21010 3227": {
+					"metal": "Clear",
+					"colour": "Grey",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-small-Gray-1.png"
+				},
+				"21010 5027": {
+					"metal": "Clear",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-small-Gold-1.png"
+				},
+				"21010 6027": {
+					"metal": "Clear",
+					"colour": "Red",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-small-Red-1.png"
+				}
+			}
+		},
+		"Cono di Luce large": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=47925&variantID=47848&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/01/210IS10E0001_Rev01_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/01/21011_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-Large-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/21010ME_Sospensione-60.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-si-Luce-large.png",
+			"light_source": [
+				"↙ 2700 K\n↙ 7 W\n↙ 1307 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"21011 3227": {
+					"metal": "Clear",
+					"colour": "Grey",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-large-Gray-1.png"
+				},
+				"21011 5027": {
+					"metal": "Clear",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-small-Gold-1.png"
+				},
+				"21011 6027": {
+					"metal": "Clear",
+					"colour": "Red",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-large-Red-1.png"
+				}
+			}
+		}
+	}
+}

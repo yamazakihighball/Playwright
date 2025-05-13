@@ -1,0 +1,188 @@
+{
+	"description": "Tidal is an elegant collection of lamps with exceptional luminous efficiency. Its fluid, impactful design, inspired by the movements of celestial bodies and tides, creates a dynamic visual experience – appearing differently from various viewing angles thanks to the ring’s irregular, asymmetrical shape, with one side wider than the other. Tidal emits light both downward and upward, with all technical elements concealed within the compact, slim lamp body, highlighting its aesthetic appeal.\nInitially conceived as a ceiling lamp, Tidal is now also available as a suspension lamp: in multiple sizes* – a 45, 60, and 75 cm for ceiling versions, and 60 cm for suspension versions – and in four versatile matte finishes, allowing it to illuminate and enhance any environment. It can be used solo or in compositions, playing with the collection’s various functions and sizes. The new stand-alone suspension option is perfect for lighting tables, including larger ones, in both residential and food & beverage settings.\n\n*Currently, for the North American market, the Tidal ceiling version is available in only two sizes: 60 and 75 cm.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2022/12/Tidal-Ceiling-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2022/12/Tidal-Ceiling-08.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-suspension-72-RGB-1-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-2025-01-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/Tidal-9.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/Tidal-8.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-45-ceiling-25-01-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Lodes-Tidal75-RGB-02-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Lodes-Tidal-RGB-03-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2022/12/Tidal-Ceiling-07.jpg",
+		null,
+		null,
+		"https://www.lodes.com/wp-content/uploads/2022/12/Tidal-Ceiling-05.jpg",
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null
+	],
+	"products": {
+		"Tidal 45": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=38121&variantID=53216&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/232IS30E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/09/19931_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/09/19931.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 27 W\n↙ 5040 lm\n↙ 1100 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 27 W\n↙ 5292 lm\n↙ 1100 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"19931 1027": {
+					"metal": "Matte White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-MatteWhite.png"
+				},
+				"19931 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-MatteBlack.png"
+				},
+				"19931 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-MatteChampagne.png"
+				},
+				"19931 6727": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-Terra.png"
+				},
+				"19931 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-MatteBlack.png"
+				},
+				"19931 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-MatteChampagne.png"
+				},
+				"19931 6730": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-45-Terra.png"
+				}
+			}
+		},
+		"Tidal 60": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=38121&variantID=53259&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/232IS30E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/09/19933_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/09/19933.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 37 W\n↙ 6975 lm\n↙ Direct light ➘ 600 mA\n↙ Indirect light ➘ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 37 W\n↙ 7320 lm\n↙ Direct light ➘ 600 mA\n↙ Indirect light ➘ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"19933 1027": {
+					"metal": "Matte White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteWhite.png"
+				},
+				"19933 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteBlack.png"
+				},
+				"19933 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteChampagne.png"
+				},
+				"19933 6727": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-Terra.png"
+				},
+				"19933 1030": {
+					"metal": "Matte White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteWhite.png"
+				},
+				"19933 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteBlack.png"
+				},
+				"19933 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-MatteChampagne.png"
+				},
+				"19933 6730": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-60-Terra.png"
+				}
+			}
+		},
+		"Tidal 75": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=38121&variantID=53302&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/232IS30E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/09/19932_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/09/19932.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 46 W\n↙ 8589 lm\n↙ Direct light ➘ 700 mA\n↙ Indirect light ➘ 550 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 46 W\n↙ 9072 lm\n↙ Direct light ➘ 700 mA\n↙ Indirect light ➘ 550 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"19932 1027": {
+					"metal": "Matte White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteWhite.png"
+				},
+				"19932 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteBlack.png"
+				},
+				"19932 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteChampagne.png"
+				},
+				"19932 6727": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-Terra.png"
+				},
+				"19932 1030": {
+					"metal": "Matte White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteWhite.png"
+				},
+				"19932 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteBlack.png"
+				},
+				"19932 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-MatteChampagne.png"
+				},
+				"19932 6730": {
+					"metal": "Terra",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Tidal-75-Terra.png"
+				}
+			}
+		}
+	}
+}

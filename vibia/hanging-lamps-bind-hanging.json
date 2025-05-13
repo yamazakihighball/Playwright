@@ -1,0 +1,191 @@
+{
+	"title": "Bind - Hanging Lamps",
+	"description": "Bind is a hybrid lighting solution designed to create multiple atmospheres to suit a range of spaces, uses and moods. It allows professionals to experiment with different lighting typologies and levels of density, modelling a space by generating subtle gradients between soft and more accentuated light.",
+	"images": {
+		"6500": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6500/col/productlist/bind_col_6500-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6500/col/productlist/bind_col_6500-24_1024.png"
+		],
+		"6504": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6504/col/productlist/bind_col_6504-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6504/col/productlist/bind_col_6504-24_1024.png"
+		],
+		"6510": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6510/col/productlist/bind_col_6510-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6510/col/productlist/bind_col_6510-24_1024.png"
+		],
+		"6514": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6514/col/productlist/bind_col_6514-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6514/col/productlist/bind_col_6514-24_1024.png"
+		],
+		"6520": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6520/col/productlist/bind_col_6520-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6520/col/productlist/bind_col_6520-24_1024.png"
+		],
+		"6524": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6524/col/productlist/bind_col_6524-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6524/col/productlist/bind_col_6524-24_1024.png"
+		],
+		"6525": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6525/col/productlist/bind_col_6525-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6525/col/productlist/bind_col_6525-24_1024.png"
+		],
+		"6528": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6528/col/productlist/bind_col_6528-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6528/col/productlist/bind_col_6528-24_1024.png"
+		],
+		"6529": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6529/col/productlist/bind_col_6529-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6529/col/productlist/bind_col_6529-24_1024.png"
+		],
+		"6530": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6530/col/productlist/bind_col_6530-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6530/col/productlist/bind_col_6530-24_1024.png"
+		],
+		"6534": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6534/col/productlist/bind_col_6534-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6534/col/productlist/bind_col_6534-24_1024.png"
+		],
+		"6538": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6538/col/productlist/bind_col_6538-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6538/col/productlist/bind_col_6538-24_1024.png"
+		],
+		"6540": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6540/col/productlist/bind_col_6540-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6540/col/productlist/bind_col_6540-24_1024.png"
+		],
+		"6542": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6542/col/productlist/bind_col_6542-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6542/col/productlist/bind_col_6542-24_1024.png"
+		],
+		"6560": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/bind_col_6560-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/bind_col_6560-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/Bind_col_6560-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/Bind_col_6560-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/Bind_col_6560-42_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6560/col/productlist/bind_col_6560-47_1024.png"
+		],
+		"6561": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/Bind_col_6561-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/Bind_col_6561-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/Bind_col_6561-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/Bind_col_6561-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/Bind_col_6561-42_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6561/col/productlist/bind_col_6561-47_1024.png"
+		],
+		"6570": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-47_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6570/col/productlist/bind_col_6570-68_1024.png"
+		],
+		"6571": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-47_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6571/col/productlist/bind_col_6571-68_1024.png"
+		],
+		"6575": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6575/col/productlist/bind_col_6575-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6575/col/productlist/bind_col_6575-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6575/col/productlist/bind_col_6575-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6575/col/productlist/bind_col_6575-42_1024.png"
+		],
+		"6576": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6576/col/productlist/bind_col_6576-10_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6576/col/productlist/bind_col_6576-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6576/col/productlist/bind_col_6576-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6576/col/productlist/bind_col_6576-42_1024.png"
+		],
+		"6580": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6580/col/productlist/bind_col_6580-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6580/col/productlist/bind_col_6580-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6580/col/productlist/bind_col_6580-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6580/col/productlist/bind_col_6580-62_1024.png"
+		],
+		"6581": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6581/col/productlist/bind_col_6581-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6581/col/productlist/bind_col_6581-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6581/col/productlist/bind_col_6581-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6581/col/productlist/bind_col_6581-62_1024.png"
+		],
+		"6583": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6583/col/productlist/bind_col_6583-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6583/col/productlist/bind_col_6583-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6583/col/productlist/bind_col_6583-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6583/col/productlist/bind_col_6583-62_1024.png"
+		],
+		"6584": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6584/col/productlist/bind_col_6584-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6584/col/productlist/bind_col_6584-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6584/col/productlist/bind_col_6584-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6584/col/productlist/bind_col_6584-62_1024.png"
+		],
+		"6586": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6586/col/productlist/bind_col_6586-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6586/col/productlist/bind_col_6586-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6586/col/productlist/bind_col_6586-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6586/col/productlist/bind_col_6586-62_1024.png"
+		],
+		"6587": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6587/col/productlist/bind_col_6587-18_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6587/col/productlist/bind_col_6587-37_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6587/col/productlist/bind_col_6587-58_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6587/col/productlist/bind_col_6587-62_1024.png"
+		],
+		"6590": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-default_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-15_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-16_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-21_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6590/col/productlist/bind_col_6590-37_1024.png"
+		],
+		"6591": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-default_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-15_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-16_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-21_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-24_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/6591/col/productlist/bind_col_6591-37_1024.png"
+		],
+		"Banner 1": "https://cms-public.vibia.com/cms/productos/eur/bind/col/slide/bind_col_slide.webp",
+		"Image 1": "https://cms-public.vibia.com/2024/10/3/10_20_23_Bind_inspirationalbook_col_01.webp",
+		"Image 2": "https://cms-public.vibia.com/2024/10/3/10_20_36_Bind_inspirationalbook_col_02.webp",
+		"Image 3": "https://cms-public.vibia.com/2024/10/3/10_20_45_Bind_inspirationalbook_col_03.webp",
+		"Image 4": "https://cms-public.vibia.com/2024/10/3/10_20_52_Bind_inspirationalbook_col_04.webp",
+		"Image 5": "https://cms-public.vibia.com/2024/10/3/10_20_57_Bind_inspirationalbook_col_05.webp",
+		"Image 6": "https://cms-public.vibia.com/2024/10/3/10_21_02_Bind_inspirationalbook_col_06.webp",
+		"Image 7": "https://cms-public.vibia.com/2024/10/3/10_21_13_Bind_inspirationalbook_col_07.webp",
+		"Image 8": "https://cms-public.vibia.com/2024/10/3/10_21_19_Bind_inspirationalbook_col_08.webp",
+		"Image 9": "https://cms-public.vibia.com/2024/10/3/10_21_25_Bind_inspirationalbook_col_09.webp",
+		"Image 10": "https://cms-public.vibia.com/2024/10/18/09_48_57_Bind_inspirationalbook_col_13.webp",
+		"Image 11": "https://cms-public.vibia.com/2024/10/18/09_49_02_Bind_inspirationalbook_col_14.webp",
+		"A419": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A419/col/productlist/bind_col_A419-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A419/col/productlist/bind_col_A419-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A419/col/productlist/bind_col_A419-24_1024.png"
+		],
+		"A422": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A422/col/productlist/bind_col_A422-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A422/col/productlist/bind_col_A422-24_1024.png"
+		],
+		"A425": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A425/col/productlist/bind_col_A425-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A425/col/productlist/bind_col_A425-24_1024.png"
+		],
+		"A426": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A426/col/productlist/bind_col_A426-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A426/col/productlist/bind_col_A426-24_1024.png"
+		],
+		"A427": [
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A427/col/productlist/bind_col_A427-11_1024.png",
+			"https://cms-public.vibia.com/cms/productos/eur/bind/A427/col/productlist/Bind_col_A427-24_1024.png"
+		]
+	}
+}

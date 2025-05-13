@@ -1,0 +1,153 @@
+{
+	"description": "In Sky–Fall, the traditional glass processing techniques embrace the most advanced LED technologies. The shape of Sky–Fall captures the imagination in its reminiscence of ancient decanters in precious blown glass. Its function amazes thanks to the innovative double LED source that diffuses direct and indirect light. Available in two sizes and in four finishes, and in 2700 or 3000 K* light colour temperature versions, Sky–Fall decorates both when it is on and when it is off. Now added to the family is the new Sky-Fall Round: a further variant featuring a spherically shaped diffuser available in two sizes and four finishes, including the new, precious golden sage. The new finish also extends to Sky-Fall in both sizes.\n* North America: 2700k only",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Sky-Fall-Round-16.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Sky-Fall-Round-13.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/10/Lodes-Sky-FallRound-0325.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/10/Sky–Fall-round-medium_clear-scaled.jpg"
+	],
+	"products": {
+		"Sky-Fall Round large": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=54927&variantID=48238&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/ist-14801_SkyFall_Pendant_2021.05..06-USA_.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-large-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/SKY-FALL-ROUND-Large-1.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Sky%E2%80%93Fall-Round-large.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 2 x 8,5 W\n↙ 1815 lm\n↙ 350 mA\n↙ CRI 95\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 2 x 8,5 W\n↙ 1870 lm\n↙ 350 mA\n↙ CRI 95\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"14823 0027": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-Clear.png"
+				},
+				"14823 4327": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GlossySmoke.png"
+				},
+				"14823 4627": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GlossyBronze.png"
+				},
+				"14823 7127": {
+					"metal": "Chrome",
+					"colour": "Golden Sage",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GoldenSage.png"
+				},
+				"14823 0030": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-Clear.png"
+				},
+				"14823 4330": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GlossySmoke.png"
+				},
+				"14823 4630": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GlossyBronze.png"
+				},
+				"14823 7130": {
+					"metal": "Chrome",
+					"colour": "Golden Sage",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-Large-GoldenSage.png"
+				}
+			}
+		},
+		"Sky-Fall Round medium": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=54927&variantID=48148&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/ist-14801_SkyFall_Pendant_2023.02.01_CE_pag.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/SKY-FALL-ROUND-Medium-1.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Sky%E2%80%93Fall-Round-medium.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 2 x 8,5 W\n↙ 1815 lm\n↙ 350 mA\n↙ CRI 95\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 2 x 8,5 W\n↙ 1870 lm\n↙ 350 mA\n↙ CRI 95\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"14824 0027": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-Clear.png"
+				},
+				"14824 4327": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GlossySmoke.png"
+				},
+				"14824 4627": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GlossyBronze.png"
+				},
+				"14824 7127": {
+					"metal": "Chrome",
+					"colour": "Golden Sage",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GoldenSage.png"
+				},
+				"14824 0030": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-Clear.png"
+				},
+				"14824 4330": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GlossySmoke.png"
+				},
+				"14824 4630": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GlossyBronze.png"
+				},
+				"14824 7130": {
+					"metal": "Chrome",
+					"colour": "Golden Sage",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Sky-Fall-Round-medium-GoldenSage.png"
+				}
+			}
+		},
+		"Sky-Fall double canopy": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=54927&variantID=48148&code=eu&lng=en&_gl=1*jqbh74*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/08/IST-10017_Double-canopy-Sky-Fall_2021.04.29.pdf?_gl=1*jqbh74*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/08/Sky%E2%80%93Fall-double-canopy-2D.pdf?_gl=1*jqbh74*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"diagram_3d": null,
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/08/Sky%E2%80%93Fall-double-canopy.png",
+			"light_source": [],
+			"skus": {
+				"R99L02 4000": {
+					"metal": "Chrome",
+					"colour": null
+				}
+			}
+		},
+		"Wall Standard": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=54927&variantID=48148&code=eu&lng=en&_gl=1*1uncmz7*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/100IS09E0001_Rev01_CE_print.pdf?_gl=1*1uncmz7*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Wall-Standard-2D-1.pdf?_gl=1*1uncmz7*_up*MQ..*_ga*MTYwODk0OTE5Ni4xNzQ2NzAxNzMy*_ga_PS5CCVRMEX*czE3NDY3MTc4OTUkbzMkZzEkdDE3NDY3MTg0NzIkajAkbDAkaDIwMDE5MzU2Mjc.",
+			"diagram_3d": null,
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/08/Sky-Fall-Double-Canopy.svg",
+			"light_source": [],
+			"skus": {
+				"R12L01 4000": {
+					"metal": "Chrome",
+					"colour": null
+				}
+			}
+		}
+	}
+}

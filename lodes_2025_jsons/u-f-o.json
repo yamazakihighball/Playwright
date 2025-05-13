@@ -1,0 +1,104 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2023/07/UFO-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/07/UFO-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/07/UFO-03.jpg",
+		null,
+		null,
+		null,
+		null
+	],
+	"products": {
+		"U.F.O. 35": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45839&variantID=45463&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/521IS20E0001_Rev01_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2023/07/52121_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/UFO35.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35.png",
+			"light_source": [
+				"LED\n2700K\n25.6 W / 3261 lm\n700 mA\nCRI 90\nMacAdam 2-Step",
+				"LED\n3000K\n25.6 W / 3474 lm\n700 mA\nCRI 90\nMacAdam 2-Step"
+			],
+			"skus": {
+				"52121 2027": {
+					"metal": "Black",
+					"colour": "Black",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Black.png"
+				},
+				"52121 9427": {
+					"metal": "Black",
+					"colour": "Rust",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Rust.png"
+				},
+				"52121 9327": {
+					"metal": "Black",
+					"colour": "Sand",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Sand.png"
+				},
+				"52121 2030": {
+					"metal": "Black",
+					"colour": "Black",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Black.png"
+				},
+				"52121 9430": {
+					"metal": "Black",
+					"colour": "Rust",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Rust.png"
+				},
+				"52121 9330": {
+					"metal": "Black",
+					"colour": "Sand",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-35-Sand.png"
+				}
+			}
+		},
+		"U.F.O. 60": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45839&variantID=45598&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/521IS20E0001_Rev01_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2023/07/52122_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/UFO60.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60.png",
+			"light_source": [
+				"LED\n2700K\n25.6 W / 3261 lm\n700 mA\nCRI 90\nMacAdam 2-Step",
+				"LED\n3000K\n25.6 W / 3474 lm\n700 mA\nCRI 90\nMacAdam 2-Step"
+			],
+			"skus": {
+				"52122 2027": {
+					"metal": "Black",
+					"colour": "Black",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Black.png"
+				},
+				"52122 9427": {
+					"metal": "Black",
+					"colour": "Rust",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Rust.png"
+				},
+				"52122 9327": {
+					"metal": "Black",
+					"colour": "Sand",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Sand.png"
+				},
+				"52122 2030": {
+					"metal": "Black",
+					"colour": "Black",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Black.png"
+				},
+				"52122 9430": {
+					"metal": "Black",
+					"colour": "Rust",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Rust.png"
+				},
+				"52122 9330": {
+					"metal": "Black",
+					"colour": "Sand",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/UFO-60-Sand.png"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"description": "Random Stick brings the collection of the same name designed by Chia-Ying Lee into the horizontal dimension with a suspension lamp that is both essential and highly decorative. The poetic blown-glass spheres, perfect in their smooth surfaces, rest on a hexagonal bar with strong aesthetic appeal, almost as if they were fragile soap bubbles grazing the surface before taking flight again.\n\nLodes has crafted a highly functional piece by placing LEDs on the underside of the bar. This design choice complements the light already diffused by the spheres and ensures uniform downward illumination, making it ideal for lighting surfaces below.\nRandom Stick is available in two versions: the 100 cm model with four spheres and two LEDs, suitable for placement above a dining table or desk; and the 150 cm model with six spheres and three LEDs, perfect for illuminating longer surfaces like a cocktail bar counter or in retail settings, and it can also be installed in multiples.\n\nThe spheres come in seven finishes from the Random collection, which can be freely combined on bars available in glossy gold, glossy black, and matte white, allowing for original colour play and fun lighting effects that highlight the concept of randomness and evanescence, reminiscent of bubbles. The numerous combinations possible by mixing the colours of the bars and spheres result in diverse characters and lighting effects, from bold tones and striking contrasts to subtle tone-on-tone nuances, enabling you to create the perfect solution to suit the style of any room.\n\nThanks to its design and the option to configure it with a special canopy, specifically created for this type of pendant lamp, Random Stick can also be installed in spaces where the light point is not centrally located.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-6.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-1.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-2.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-3.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-4.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/23420M-2230U17110V-4317111V-1317112V-4617110V-43-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/23420M-5030U17110V-4317111V-0017112V-4017110V-00-scaled.jpg"
+	],
+	"products": {
+		"Random Stick long": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/wp-content/uploads/2024/08/Lodes-Random-Stick-long.pdf",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/09/234IS20E0001_Rev02_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/08/23421M_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/09/RandomStick-long-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/08/23421M.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Screenshot-2024-08-29-alle-13.25.07.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 3 x 3 W + 6 x 1 W\n↙ 2250 lm\n↙ Diffused light ➘ 900 lm\n↙ Direct light ➘ 1350 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 3 x 3 W + 6 x 1 W\n↙ 2400 lm\n↙ Diffused light ➘ 980 lm\n↙ Direct light ➘ 1720 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"23421M 1027": {
+					"metal": "Matte White",
+					"colour": "Clear"
+				},
+				"23421M 2227": {
+					"metal": "Black Chrome",
+					"colour": "Frosted White"
+				},
+				"23421M 5027": {
+					"metal": "Polished Gold",
+					"colour": "Chrome"
+				},
+				"23421M 1030": {
+					"metal": "Matte White",
+					"colour": "Clear"
+				},
+				"23421M 2230": {
+					"metal": "Black Chrome",
+					"colour": "Frosted White"
+				},
+				"23421M 5030": {
+					"metal": "Polished Gold",
+					"colour": "Chrome"
+				}
+			}
+		},
+		"Random Stick short": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/wp-content/uploads/2024/08/Lodes-Random-Stick-short.pdf",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/09/234IS20E0001_Rev02_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2024/09/23420M_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/09/RandomStick-short-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/09/23420M.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/RandomStick-short.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 3 x 2 W + 4 x 1 W\n↙ 1500 lm\n↙ Diffused light ➘ 600 lm\n↙ Direct light ➘ 900 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 3 x 2 W + 4 x 1 W\n↙ 1600 lm\n↙ Diffused light ➘ 640 lm\n↙ Direct light ➘ 960 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"23420M 1027": {
+					"metal": "Matte White",
+					"colour": "Clear"
+				},
+				"23420M 2227": {
+					"metal": "Black Chrome",
+					"colour": "Frosted White"
+				},
+				"23420M 5027": {
+					"metal": "Polished Gold",
+					"colour": "Chrome"
+				},
+				"23420M 1030": {
+					"metal": "Matte White",
+					"colour": "Clear"
+				},
+				"23420M 2230": {
+					"metal": "Black Chrome",
+					"colour": "Frosted White"
+				},
+				"23420M 5030": {
+					"metal": "Polished Gold",
+					"colour": "Chrome"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,88 @@
+[
+	{
+		"mainpage_info": [
+			{
+				"Code Name": "g-o-252",
+				"Product Name": "G.O.",
+				"Style": "Table",
+				"Designer": "Design Giuseppe Ostuni, 1960",
+				"Product Description": "The G.O. lamp is the revival edition of a model designed for Oluce by Giuseppe Ostuni in the 1960s. A lamp that, in the essence of its design, is extremely current, characterised by a vertical shaft from which a horizontal arm branches off and on which the lampshade is mounted. The arm, thanks to the system of joints, is therefore a sliding element that can be repositioned and oriented depending on specific needs."
+			}
+		],
+		"slider_imgs": [
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery01.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery02.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery03.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery04.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery06.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery05.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery07.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery08.jpg"
+			}
+		],
+		"technical_data": [],
+		"technical_info": [
+			{
+				"Technical Information Code": "252",
+				"Technical Information Source Bulb": "1 x max 10W - E14",
+				"Technical Information Materia": "Metal",
+				"Technical Information Color": [
+					{
+						"Code": "252.NE",
+						"Colour": "Black"
+					},
+					{
+						"Code": "252.AB",
+						"Colour": "Anodic bronze"
+					},
+					{
+						"Code": "252.RB",
+						"Colour": "scarlet red"
+					}
+				]
+			}
+		],
+		"technical_drawings": [
+			{
+				"2D models - DWG": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-G-O-352-2D-dwg.zip"
+			},
+			{
+				"3D models - DWG": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-G-O-352-3D-dwg.zip"
+			},
+			{
+				"3D models - MAX": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-G-O-352-3D-max.zip"
+			}
+		],
+		"technical_sheet": [
+			{
+				"Standard Technical Data": "https://www.oluce.com/wp-content/uploads/2022/07/OLU-go-252-technical-data-standard.pdf"
+			}
+		],
+		"download_info": [
+			{
+				"Product details": ""
+			},
+			{
+				"Assembly Instructions": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-mounting-instructions.pdf"
+			},
+			{
+				"Assembly Instructions – UL certification": ""
+			}
+		]
+	}
+]

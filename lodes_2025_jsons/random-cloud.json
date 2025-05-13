@@ -1,0 +1,685 @@
+{
+	"description": "Random Cloud captures the essence of why a cloud continues to fascinate us: voluminous yet simultaneously light and ethereal.\n\nRandom Cloud reimagines the chandelier concept in a contemporary manner, expanding the collection in functionality. The extensive range of composition and configuration options makes Random Cloud a versatile solution suitable for home, hospitality, and office environments.\n\nRandom Cloud was designed not just as a decorative and impactful element but also as a highly functional and high-performance chandelier, emitting light up to 11040 lumens.\n\nEach composition option can be achieved by selecting one of the seven available finishes, featuring spheres with diameters of 23 or 28 cm. This provides various decorative solutions adaptable to any context and style.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-06.jpg"
+	],
+	"products": {
+		"Random Cloud 7 Lights Ø23": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=47102&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=47102&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/12/RANDOM-CLOUD-SUSPENSION-7-23-1.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 7 x 3 W\n↙ 3150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 7 x 3 W\n↙ 3360 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"22121 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Clear.png"
+				},
+				"22121 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Foster-White.png"
+				},
+				"22121 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Chrome.png"
+				},
+				"22121 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Glossy-Smoke.png"
+				},
+				"22121 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Glossy-Bronze.png"
+				},
+				"22121 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Gold.png"
+				},
+				"22121 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Rose-Gold.png"
+				},
+				"22121 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Clear.png"
+				},
+				"22121 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Foster-White.png"
+				},
+				"22121 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Chrome.png"
+				},
+				"22121 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Glossy-Smoke.png"
+				},
+				"22121 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Glossy-Bronze.png"
+				},
+				"22121 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Gold.png"
+				},
+				"22121 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-23-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 7 Lights Ø28": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=47995&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=47995&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 7 x 3 W\n↙ 3150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 7 x 3 W\n↙ 3360 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"22122 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Clear.png"
+				},
+				"22122 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Foster-White.png"
+				},
+				"22122 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Chrome.png"
+				},
+				"22122 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Glossy-Smoke.png"
+				},
+				"22122 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Glossy-Bronze.png"
+				},
+				"22122 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Gold.png"
+				},
+				"22122 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Rose-Gold.png"
+				},
+				"22122 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Clear.png"
+				},
+				"22122 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Foster-White.png"
+				},
+				"22122 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Chrome.png"
+				},
+				"22122 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Glossy-Smoke.png"
+				},
+				"22122 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Glossy-Bronze.png"
+				},
+				"22122 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Gold.png"
+				},
+				"22122 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-7-28-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 14 Lights Ø23": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48004&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48004&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 14 x 3 W\n↙ 6300 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 14 x 3 W\n↙ 6720 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"22123 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Clear.png"
+				},
+				"22123 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Foster-White.png"
+				},
+				"22123 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Chrome.png"
+				},
+				"22123 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Glossy-Smoke.png"
+				},
+				"22123 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Glossy-Bronze.png"
+				},
+				"22123 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Gold.png"
+				},
+				"22123 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Rose-Gold.png"
+				},
+				"22123 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Clear.png"
+				},
+				"22123 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Foster-White.png"
+				},
+				"22123 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Chrome.png"
+				},
+				"22123 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Glossy-Smoke.png"
+				},
+				"22123 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Glossy-Bronze.png"
+				},
+				"22123 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Gold.png"
+				},
+				"22123 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-23-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 14 Lights Ø28": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48013&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48013&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 14 x 3 W\n↙ 6300 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step\n",
+				"LED\n↙ 3000 K\n↙ 14 x 3 W\n↙ 6720 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3-Step\n"
+			],
+			"skus": {
+				"22124 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Clear.png"
+				},
+				"22124 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Foster-White.png"
+				},
+				"22124 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Chrome.png"
+				},
+				"22124 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Glossy-Smoke.png"
+				},
+				"22124 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Glossy-Bronze.png"
+				},
+				"22124 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Gold.png"
+				},
+				"22124 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Rose-Gold.png"
+				},
+				"22124 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Clear.png"
+				},
+				"22124 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Foster-White.png"
+				},
+				"22124 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Chrome.png"
+				},
+				"22124 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Glossy-Smoke.png"
+				},
+				"22124 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Glossy-Bronze.png"
+				},
+				"22124 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Gold.png"
+				},
+				"22124 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-14-28-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 19 Lights Ø23": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48015&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48015&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 19 x 3 W\n↙ 8550 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 19 x 3 W\n↙ 9120 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"22125 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Clear.png"
+				},
+				"22125 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Foster-White.png"
+				},
+				"22125 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Chrome.png"
+				},
+				"22125 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Glossy-Smoke.png"
+				},
+				"22125 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Glossy-Bronze.png"
+				},
+				"22125 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Gold.png"
+				},
+				"22125 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Rose-Gold.png"
+				},
+				"22125 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Clear.png"
+				},
+				"22125 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Foster-White.png"
+				},
+				"22125 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Chrome.png"
+				},
+				"22125 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Glossy-Smoke.png"
+				},
+				"22125 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Glossy-Bronze.png"
+				},
+				"22125 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Gold.png"
+				},
+				"22125 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-23-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 19 Lights Ø28": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48016&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48016&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 19 x 3 W\n↙ 8550 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 19 x 3 W\n↙ 9120 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"22126 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Clear.png"
+				},
+				"22126 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Foster-White.png"
+				},
+				"22126 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Chrome.png"
+				},
+				"22126 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Glossy-Smoke.png"
+				},
+				"22126 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Glossy-Bronze.png"
+				},
+				"22126 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Gold.png"
+				},
+				"22126 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Rose-Gold.png"
+				},
+				"22126 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Clear.png"
+				},
+				"22126 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Foster-White.png"
+				},
+				"22126 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Chrome.png"
+				},
+				"22126 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Glossy-Smoke.png"
+				},
+				"22126 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Glossy-Bronze.png"
+				},
+				"22126 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Gold.png"
+				},
+				"22126 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-19-28-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 23 Lights Ø23": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48017&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48017&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 23 x 3 W\n↙ 10350 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 23 x 3 W\n↙ 11040 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"22127 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Clear.png"
+				},
+				"22127 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Foster-White.png"
+				},
+				"22127 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Chrome.png"
+				},
+				"22127 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Glossy-Smoke.png"
+				},
+				"22127 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Glossy-Bronze.png"
+				},
+				"22127 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Gold.png"
+				},
+				"22127 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Rose-Gold.png"
+				},
+				"22127 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Clear.png"
+				},
+				"22127 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Foster-White.png"
+				},
+				"22127 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Chrome.png"
+				},
+				"22127 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Glossy-Smoke.png"
+				},
+				"22127 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Glossy-Bronze.png"
+				},
+				"22127 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Gold.png"
+				},
+				"22127 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-23-Rose-Gold.png"
+				}
+			}
+		},
+		"Random Cloud 23 Lights Ø28": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=46888&variantID=48021&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/zip-istruzioni-di-montaggio-non-toccare/?prodID=46888&variantID=48021&code=eu&lng=en",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/3DS.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 23 x 3 W\n↙ 10350 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 23 x 3 W\n↙ 11040 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"22128 0027": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Clear.png"
+				},
+				"22128 1327": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Foster-White.png"
+				},
+				"22128 4027": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Chrome.png"
+				},
+				"22128 4327": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Glossy-Smoke.png"
+				},
+				"22128 4627": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Glossy-Bronze.png"
+				},
+				"22128 5027": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Gold.png"
+				},
+				"22128 5527": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Rose-Gold.png"
+				},
+				"22128 0030": {
+					"metal": "Matte White – 9010",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Clear.png"
+				},
+				"22128 1330": {
+					"metal": "Matte White – 9010",
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Foster-White.png"
+				},
+				"22128 4030": {
+					"metal": "Matte White – 9010",
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Chrome.png"
+				},
+				"22128 4330": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Glossy-Smoke.png"
+				},
+				"22128 4630": {
+					"metal": "Matte White – 9010",
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Glossy-Bronze.png"
+				},
+				"22128 5030": {
+					"metal": "Matte White – 9010",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Gold.png"
+				},
+				"22128 5530": {
+					"metal": "Matte White – 9010",
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/12/Random-Cloud-23-28-Rose-Gold.png"
+				}
+			}
+		}
+	}
+}

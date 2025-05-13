@@ -1,0 +1,68 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-03.jpg",
+		null
+	],
+	"products": {
+		"REGLOBE 45": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45837&variantID=45599&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/523IS20E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-45-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/3d_Reglobe_45.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-45-1.png",
+			"light_source": [
+				"LED E27\n1 max 25W"
+			],
+			"skus": {
+				"52321 1100": {
+					"metal": "White",
+					"colour": "Random Terrazzo",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-45.png"
+				}
+			}
+		},
+		"REGLOBE 55": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45837&variantID=45733&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/523IS20E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-55-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/3d_Reglobe_55.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-55-1.png",
+			"light_source": [
+				"LED E27\n1 max 25W"
+			],
+			"skus": {
+				"52322 1100": {
+					"metal": "White",
+					"colour": "Random Terrazzo",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-55.png"
+				}
+			}
+		},
+		"REGLOBE 65": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=45837&variantID=45737&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2023/07/523IS20E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-65-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2023/07/3d_Reglobe_65.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-65-1.png",
+			"light_source": [
+				"LED E27\n1 max 25W"
+			],
+			"skus": {
+				"52323 1100": {
+					"metal": "White",
+					"colour": "Random Terrazzo",
+					"image": "https://www.lodes.com/wp-content/uploads/2023/07/Reglobe-65.png"
+				}
+			}
+		}
+	}
+}

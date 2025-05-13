@@ -1,0 +1,104 @@
+{
+	"description": "Strong design and leading-edge technology come together in this family of lamps characterised by a convex lens that projects the LED light wherever its needed or most preferred, for a truly efficient and personalised result. Versatile and dynamic, either on the wall or ceiling in a variety of versions and finishes, Nautilus lamps satisfy a full range of lighting needs, whether functional or purely decorative, in both residential and professional contexts. Nautilus is now available with a dim-to-warm function, which allows users to interact by adjusting the intensity of the LED light source from 2200 to 2700 kelvin.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus_matte-black-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus_matte-champagne-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus_matte-white-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-25-02-scaled.jpg"
+	],
+	"products": {
+		"Nautilus": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18714&variantID=5943&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/IST-16502_Rev01_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/16530_Rev01_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/3d_Nautilus_Ceiling.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-1.png",
+			"light_source": [
+				"AC LED\n↙ 2700 K\n↙ 12 W\n↙ 995 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"AC LED\n↙ 3000 K\n↙ 12 W\n↙ 1085 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16530 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-White.png"
+				},
+				"16530 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-Black.png"
+				},
+				"16530 4527": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-Champagne.png"
+				},
+				"16530 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-White.png"
+				},
+				"16530 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-Black.png"
+				},
+				"16530 4530": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Ceiling-Champagne.png"
+				}
+			}
+		},
+		"Nautilus Spot": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18714&variantID=5979&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/IST-16508_Rev01_CE.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/16560_Rev01_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/NautilusSpot_Ceiling.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot.png",
+			"light_source": [
+				"AC LED\n↙ 2700 K\n↙ 10 W\n↙ 945 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"AC LED\n↙ 3000 K\n↙ 10 W\n↙ 950 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16560 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-White.png"
+				},
+				"16560 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-Black.png"
+				},
+				"16560 4527": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-Champagne.png"
+				},
+				"16560 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-White.png"
+				},
+				"16560 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-Black.png"
+				},
+				"16560 4530": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Spot-Ceiling-Champagne.png"
+				}
+			}
+		}
+	}
+}

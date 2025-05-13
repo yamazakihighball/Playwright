@@ -1,0 +1,135 @@
+{
+	"description": "Strong design and leading-edge technology come together in this family of lamps characterised by a convex lens that projects the LED light wherever its needed or most preferred, for a truly efficient and personalised result. Versatile and dynamic, either on the wall or ceiling in a variety of versions and finishes, Nautilus lamps satisfy a full range of lighting needs, whether functional or purely decorative, in both residential and professional contexts. Nautilus is now available with a dim-to-warm function, which allows users to interact by adjusting the intensity of the LED light source from 2200 to 2700 kelvin.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-0A-22.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-04-22.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-05-22.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-11.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-14.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Nauilus-Wall-15.jpg"
+	],
+	"products": {
+		"Nautilus": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18783&variantID=5864&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/IST-16501_Rev01_CE.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/16550_Rev01_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/3d_Nautilus_Wall.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-2.png",
+			"light_source": [
+				"AC LED\n↙ 2700 K\n↙ 2 x 12 W\n↙ 1990 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"AC LED\n↙ 3000 K\n↙ 2 x 12 W\n↙ 2170 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16550 1927": {
+					"metal": "Matte White – 9010",
+					"colour": "Matte White – 9010",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-White.png"
+				},
+				"16550 2927": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Black.png"
+				},
+				"16550 4927": {
+					"metal": "Matte Champagne",
+					"colour": "Matte Champagne",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Champagne.png"
+				},
+				"16550 1930": {
+					"metal": "Matte White – 9010",
+					"colour": "Matte White – 9010",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-White.png"
+				},
+				"16550 2930": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Black.png"
+				},
+				"16550 4930": {
+					"metal": "Matte Champagne",
+					"colour": "Matte Champagne",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Champagne.png"
+				}
+			}
+		},
+		"Nautilus Mini": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18783&variantID=5914&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/IST-16503_Rev01_CE.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/16552_Rev01_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-DTW_240507_sito.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini.png",
+			"light_source": [
+				"AC LED\n↙ 2700 K\n↙ 12 W\n↙ 950 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"AC LED\n↙ 3000 K\n↙ 12 W\n↙ 1030 lm\n↙ 220–240 V\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16552 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-White.png"
+				},
+				"16552 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-Black.png"
+				},
+				"16552 4527": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-Champagne.png"
+				},
+				"16552 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-White.png"
+				},
+				"16552 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-Black.png"
+				},
+				"16552 4530": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Mini-Champagne.png"
+				}
+			}
+		},
+		"Nautilus Dim-to-Warm": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18783&variantID=48372&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/01/219IS50E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Nautilus-Dim-to-Warm-Wall-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/Nautilus-DTW.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Nautilus-Dim-to-Warm-Wall.png",
+			"light_source": [
+				"LED\n↙ Dim-to-Warm\n↙ From 2200 K to 2700 K\n↙ 2 x 7 W\n↙ 2000 lm\n↙ 220-240 V\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16553 1926": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-White.png"
+				},
+				"16553 2926": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Black.png"
+				},
+				"16553 4926": {
+					"metal": "Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Nautilus-Wall-Total-Champagne.png"
+				}
+			}
+		}
+	}
+}

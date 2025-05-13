@@ -1,0 +1,120 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-02.jpg"
+	],
+	"products": {
+		"URBAN CONCRETE 25": {
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=20141&variantID=8287&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/IST-50201_URBANCONCRETE_25_2023.03_CE.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/URBAN_CONCRETE_25_Cluster.3ds.zip",
+			"light_source": [
+				"LED E27\n1 max 25 W"
+			],
+			"skus": {
+				"50210 6100": {
+					"metal": "White",
+					"colour": "Pink Dust"
+				},
+				"50210 3100": {
+					"metal": "White",
+					"colour": "Tough Gray"
+				},
+				"50210 3000": {
+					"metal": "White",
+					"colour": "Soft Gray"
+				}
+			}
+		},
+		"URBAN CONCRETE 50": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=20141&variantID=8428&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/Assembly-instructions_UrbanConcrete_50_60_80_CE.zip",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/URBAN_CONCRETE_50.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-1.png",
+			"light_source": [
+				"LED E27 G95\n1 max 25 W"
+			],
+			"skus": {
+				"50221 6100": {
+					"metal": "White",
+					"colour": "Pink Dust",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Pink-Dust.png"
+				},
+				"50221 3100": {
+					"metal": "White",
+					"colour": "Tough Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Tough-Gray.png"
+				},
+				"50221 3000": {
+					"metal": "White",
+					"colour": "Soft Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Soft-Gray.png"
+				}
+			}
+		},
+		"URBAN CONCRETE 60": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=20141&variantID=8429&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/Assembly-instructions_UrbanConcrete_50_60_80_CE.zip",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-60-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/URBAN_CONCRETE_60.3ds-1.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-60-1.png",
+			"light_source": [
+				"LED E27 G95\n1 max 25 W"
+			],
+			"skus": {
+				"50222 6100": {
+					"metal": "White",
+					"colour": "Pink Dust",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Pink-Dust.png"
+				},
+				"50222 3100": {
+					"metal": "White",
+					"colour": "Tough Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Tough-Gray.png"
+				},
+				"50222 3000": {
+					"metal": "White",
+					"colour": "Soft Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Soft-Gray.png"
+				}
+			}
+		},
+		"URBAN CONCRETE 80": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=20141&variantID=8430&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/Assembly-instructions_UrbanConcrete_50_60_80_CE.zip",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-80-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/URBAN_CONCRETE_80.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-80-1.png",
+			"light_source": [
+				"LED E27 G95\n1 max 25 W"
+			],
+			"skus": {
+				"50223 6100": {
+					"metal": "White",
+					"colour": "Pink Dust",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-80-Pink-Dust.png"
+				},
+				"50223 3100": {
+					"metal": "White",
+					"colour": "Tough Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-80-Tough-Gray.png"
+				},
+				"50223 3000": {
+					"metal": "White",
+					"colour": "Soft Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-80-Soft-Gray.png"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,80 @@
+[
+	{
+		"mainpage_info": [
+			{
+				"Code Name": "dora-table",
+				"Product Name": "Dora",
+				"Style": "Table",
+				"Designer": "Design Angeletti & Ruzza, 2023",
+				"Product Description": "angelettiruzza designed a lamp for Oluce, with a balanced and refined presence, with an innate elegance, aristocratic without pretension. Dora is a range of indoor lamps based on the contrast between the warmth of the glass diffuser and the balance of the metal body supporting it. A light presence with an antique soul, with strong references to classical lines, especially in the lampshade design, which are softened and modernised in the minimalism of the metal stem and foot. Its subtle essentiality is its distinguishing feature."
+			}
+		],
+		"slider_imgs": [
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/10/OLU-005-dora-table-pontevico.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-1920x1080-01.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-1920x1080-02.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-1920x1080-03.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-1920x1080-04.jpg"
+			}
+		],
+		"technical_data": [
+			{
+				"Heading Desc": "Metal table lamp giving direct and diffused led light. Satin galvanic metal parts, blown-glass colored diffuser. With dimmable switch.",
+				"Heading Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-silhouette.png"
+			}
+		],
+		"technical_info": [
+			{
+				"Technical Information Code": "271",
+				"Technical Information Source Bulb": "1 x 9 W - LED - 2700°K - 1300 lm CRI>85 - dimmer",
+				"Technical Information Materia": "Metal / glass",
+				"Technical Information Color": [
+					{
+						"Code": "271.NK/FU",
+						"Colour": "Satin black nickel - smokey glass"
+					},
+					{
+						"Code": "271.OR/RO",
+						"Colour": "Satin gold - sand-blasted red glass"
+					}
+				]
+			}
+		],
+		"technical_drawings": [
+			{
+				"2D models - DWG": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-2D-dwg.zip"
+			},
+			{
+				"3D models - DWG": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-3D-dwg.zip"
+			},
+			{
+				"3D models - 3DS": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-3D-3ds.zip"
+			}
+		],
+		"technical_sheet": [
+			{
+				"Standard Technical Data": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-dora-271-technical-data.pdf"
+			}
+		],
+		"download_info": [
+			{
+				"Product details": ""
+			},
+			{
+				"Assembly Instructions": "https://www.oluce.com/wp-content/uploads/2024/11/OLU-dora-271-371-standard-mounting-instructions.pdf"
+			},
+			{
+				"Assembly Instructions – UL certification": ""
+			}
+		]
+	}
+]

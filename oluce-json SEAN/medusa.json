@@ -1,0 +1,81 @@
+[
+	{
+		"mainpage_info": [
+			{
+				"Code Name": "medusa",
+				"Product Name": "Medusa",
+				"Style": "Table",
+				"Designer": "Design Quaglio & Simonelli, 2023",
+				"Product Description": "Andrea Quaglio and Manuela Simonelli, professionally Quaglio-Simonelli, who have focused for years on furniture design and other items, have designed Medusa for Oluce, a glass table lamp, created from the elementary principle of incorporating a metal dome into a cylinder. The dome contains the light source and the glass cylinder delicately spreads the light onto the lamp’s supporting surface."
+			}
+		],
+		"slider_imgs": [
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/10/OLU-003-medusa-torino.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-1920x1080-01.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-1920x1080-02.jpg"
+			},
+			{
+				"Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-1929x1080-03.jpg"
+			}
+		],
+		"technical_data": [
+			{
+				"Heading Desc": "Pyrex glass table lamp giving direct led light. Inner metal reflector, fabric cable. With on/off switch.",
+				"Heading Image": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-silhouette.png"
+			}
+		],
+		"technical_info": [
+			{
+				"Technical Information Code": "254",
+				"Technical Information Source Bulb": "1 x 4 W - LED - 2700°K - 500 lm CRI>85",
+				"Technical Information Materia": "Metal/Glass",
+				"Technical Information Color": [
+					{
+						"Code": "254.NE",
+						"Colour": "Lacquered black"
+					},
+					{
+						"Code": "254.OR",
+						"Colour": "Satin gold"
+					},
+					{
+						"Code": "254.RO",
+						"Colour": "Scarlet red"
+					}
+				]
+			}
+		],
+		"technical_drawings": [
+			{
+				"2D models - DWG": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-2D-dwg.zip"
+			},
+			{
+				"3D models - DWG": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-3D-dwg.zip"
+			},
+			{
+				"3D models - 3DS": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-3D-3ds.zip"
+			}
+		],
+		"technical_sheet": [
+			{
+				"Standard Technical Data": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254-technical-data.pdf"
+			}
+		],
+		"download_info": [
+			{
+				"Product details": "https://www.oluce.com/wp-content/uploads/2023/04/OLU-medusa-254.pdf"
+			},
+			{
+				"Assembly Instructions": "https://www.oluce.com/wp-content/uploads/2024/06/OLU-medusa-254-mounting-instructions.pdf"
+			},
+			{
+				"Assembly Instructions – UL certification": ""
+			}
+		]
+	}
+]

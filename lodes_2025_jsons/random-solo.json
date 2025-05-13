@@ -1,0 +1,527 @@
+{
+	"description": "Six perfect spheres floating in the air like gentle glass bubbles. Random Solo revisits the concept of the Random suspension lamp by parting the original three-piece cluster and releasing the individuality of the spherical shapes, which float like bubbles of light, letting you imagine compositions of luminous harmonies. Thanks to the new 10 cm size, there are now six dimensions and seven different finishes available, offering ample styling freedom, both as individually suspended light points and in lightweight and lively combinations on clusters.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-08.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-09.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-10.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-17.png",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Ransom-Solo-16.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/RandomSolo_glossy-bronze-clear_2-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Lodes-RandomSolo-0325-scaled.jpg"
+	],
+	"products": {
+		"Random Solo 10": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=48610&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/01/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/17111_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-10-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/RANDOM-SOLO-CLUSTER-10-4.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-10-1.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 1 W\n↙ 150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 1 W\n↙ 160 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17110 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Clear-10.png"
+				},
+				"17110 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Fosterd-White-10.png"
+				},
+				"17110 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Chrome-10.png"
+				},
+				"17110 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Glossy-Smoke-10.png"
+				},
+				"17110 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Glossy-Bronze-10.png"					
+				},
+				"17110 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Gold-10.png"
+				},
+				"17110 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Rose-Gold-10.png"
+				},
+				"17110 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Clear-10.png"
+				},
+				"17110 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Fosterd-White-10.png"
+				},
+				"17110 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Chrome-10.png"
+				},
+				"17110 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Glossy-Smoke-10.png"
+				},
+				"17110 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Glossy-Bronze-10.png"					
+				},
+				"17110 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Gold-10.png"
+				},
+				"17110 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Random-Solo-Rose-Gold-10.png"
+				}
+			}
+		},
+		"Random Solo 12": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=6862&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/17112_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-12-2D-2.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/RANDOM_SOLO_12_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-12-2.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 1 W\n↙ 150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 1 W\n↙ 160 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17111 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-12.png"
+				},
+				"17111 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-12.png"
+				},
+				"17111 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-12.png"
+				},
+				"17111 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-12.png"
+				},
+				"17111 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-12.png"
+				},
+				"17111 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-12.png"
+				},
+				"17111 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-12.png"
+				},
+				"17111 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-12.png"
+				},
+				"17111 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-12.png"
+				},
+				"17111 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-12.png"
+				},
+				"17111 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-12.png"
+				},
+				"17111 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-12.png"
+				},
+				"17111 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-12.png"
+				},
+				"17111 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-12.png"
+				}
+			}
+		},
+		"Random Solo 14": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=6963&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/17113_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-14-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/RANDOM_SOLO_14_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-14-1.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 1 W\n↙ 150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 1 W\n↙ 160 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17112 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-14.png"
+				},
+				"17112 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-14.png"
+				},
+				"17112 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-14.png"
+				},
+				"17112 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-14.png"
+				},
+				"17112 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-14.png"
+				},
+				"17112 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-14.png"
+				},
+				"17112 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-14.png"
+				},
+				"17112 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-14.png"
+				},
+				"17112 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-14.png"
+				},
+				"17112 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-14.png"
+				},
+				"17112 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-14.png"
+				},
+				"17112 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-14.png"
+				},
+				"17112 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-14.png"
+				},
+				"17112 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-14.png"
+				}
+			}
+		},
+		"Random Solo 18": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=7013&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/17114_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-18-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/RANDOM_SOLO_18_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-18-1.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 1 W\n↙ 150 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 1 W\n↙ 160 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17113 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-18.png"
+				},
+				"17113 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-18.png"
+				},
+				"17113 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-18.png"
+				},
+				"17113 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-18.png"
+				},
+				"17113 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-18.png"
+				},
+				"17113 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-18.png"
+				},
+				"17113 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-18.png"
+				},
+				"17113 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-18.png"
+				},
+				"17113 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-18.png"
+				},
+				"17113 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-18.png"
+				},
+				"17113 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-18.png"
+				},
+				"17113 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-18.png"
+				},
+				"17113 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-18.png"
+				},
+				"17113 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-18.png"
+				}
+			}
+		},
+		"Random Solo 23": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=7066&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/17115_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-23-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/RANDOM_SOLO_23_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-23-1.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 3 W\n↙ 450 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 3 W\n↙ 480 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17114 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-23.png"
+				},
+				"17114 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-23.png"
+				},
+				"17114 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-23.png"
+				},
+				"17114 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-23.png"
+				},
+				"17114 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-23.png"
+				},
+				"17114 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-23.png"
+				},
+				"17114 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-23.png"
+				},
+				"17114 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-23.png"
+				},
+				"17114 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-23.png"
+				},
+				"17114 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-23.png"
+				},
+				"17114 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-23.png"
+				},
+				"17114 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-23.png"
+				},
+				"17114 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-23.png"
+				},
+				"17114 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-23.png"
+				}
+			}
+		},
+		"Random Solo 28": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=18161&variantID=7356&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/171IS10E0001_Rev04_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-28-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/RANDOM_SOLO_28_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-28-1.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 3 W\n↙ 450 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 3 W\n↙ 480 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"17115 0027": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-28-1.png"
+				},
+				"17115 1327": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-28.png"
+				},
+				"17115 4027": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-28.png"
+				},
+				"17115 4327": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-28.png"
+				},
+				"17115 5027": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-28.png"
+				},
+				"17115 5527": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-28.png"
+				},
+				"17115 4627": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-28.png"
+				},
+				"17115 0030": {
+					"metal": "Clear",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Crystal-28-1.png"
+				},
+				"17115 1330": {
+					"metal": "Frosted White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-White-28.png"
+				},
+				"17115 4030": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Chrome-28.png"
+				},
+				"17115 4330": {
+					"metal": "Glossy Smoke",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Smoke-28.png"
+				},
+				"17115 5030": {
+					"metal": "Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Gold-28.png"
+				},
+				"17115 5530": {
+					"metal": "Rose Gold",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Rose-Gold-28.png"
+				},
+				"17115 4630": {
+					"metal": "Glossy Bronze",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Solo-Glossy-Bronze-28.png"
+				}
+			}
+		}
+	}
+}

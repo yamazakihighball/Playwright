@@ -1,0 +1,89 @@
+{
+	"description": "A lightweight, blown glass suspension lamp, Random is made up of three round diffusers of different sizes which form one simple, eye-catching whole. Each diffuser has an LED light source which emits a soft white light. When grouped together on a cluster, Random light fixtures form a poetic composition like soap bubbles, enhanced by the contemporary finishes which add a touch of character and originality.\nDesigned by Chia-Ying Lee, Random conjures up images of frothy bubbles dancing playfully in the wind. Random emulates the ephemeral nature of bubbles with perfectly smooth blown glass that is resistant to temperature fluctuations. Slender metal wires support the three spheres measuring 18, 14 and 12 cm in diameter. A thin metal cylinder houses the cables of each sphere and creates a cluster of lights. Random experiences a modification of the driver, which must be housed in the canopy.\n\nSuspended on the power cord, Random diffuses a soft light with warmer (2700k) or colder (3000k) colour temperature* emitted by the three 1W LEDs, one for each of the three blown glass spheres. The LED light source is positioned in a silicone seat in the upper part of the light. The colour rendering index (CRI) of 90 retains the true colour of objects.\n\nThe innate playful nature of Random conjures up emotion-filled light effects. It can be used on its own to illuminate a table or in clusters to light larger areas in the home. With a choice of seven colour options, Random interprets the concept of a random composition in a creative and fun way. The different finishes offer ample freedom in composing sets of effervescent blends of light creating a dynamic dialogue with the setting in which they are suspended.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-02.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-01-1.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-2025-01-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-2025-02-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-cluster-suspension-25-01-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random_glossy-bronze-chrome-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-cluster-suspension-25-02-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-01A-22.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-02-1.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random-03-1.jpg",
+		"https://www.lodes.com/wp-content/uploads/2021/03/Random_frosted-white-scaled.jpg"
+	],
+	"products": {
+		"Random": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=19097&variantID=7406&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/164IS10E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2021/03/16410_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Random-2D-2.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/Random.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Random-2.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 3 x 1 W\n↙ 450 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step",
+				"LED\n↙ 3000 K\n↙ 3 x 1 W\n↙ 480 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3–Step"
+			],
+			"skus": {
+				"16410 0027": {
+					"metal": "Chrome",
+					"colour": "Clear"
+				},
+				"16410 1327": {
+					"metal": "Chrome",
+					"colour": "Frosted White"
+				},
+				"16410 4027": {
+					"metal": "Chrome",
+					"colour": "Chrome"
+				},
+				"16410 4327": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke"
+				},
+				"16410 5027": {
+					"metal": "Chrome",
+					"colour": "Gold"
+				},
+				"16410 5527": {
+					"metal": "Chrome",
+					"colour": "Rose Gold"
+				},
+				"16410 4627": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze"
+				},
+				"16410 0030": {
+					"metal": "Chrome",
+					"colour": "Clear"
+				},
+				"16410 1330": {
+					"metal": "Chrome",
+					"colour": "Frosted White"
+				},
+				"16410 4030": {
+					"metal": "Chrome",
+					"colour": "Chrome"
+				},
+				"16410 4330": {
+					"metal": "Chrome",
+					"colour": "Glossy Smoke"
+				},
+				"16410 5030": {
+					"metal": "Chrome",
+					"colour": "Gold"
+				},
+				"16410 5530": {
+					"metal": "Chrome",
+					"colour": "Rose Gold"
+				},
+				"16410 4630": {
+					"metal": "Chrome",
+					"colour": "Glossy Bronze"
+				}
+			}
+		}
+	}
+}

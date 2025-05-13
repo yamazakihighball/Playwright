@@ -1,0 +1,32 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2021/03/Glass-Drop-03.jpg"
+	],
+	"products": {
+		"GLASS DROP": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=19866&variantID=8200&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2021/03/504IS10E0001_Rev01_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2021/03/Glass-Drop-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2021/03/GLASSDROP_Cluster.3ds.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2021/03/Glass-Drop-1.png",
+			"light_source": [
+				"LED E27\n1 max 25 W"
+			],
+			"skus": {
+				"50420 1200": {
+					"metal": "White",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Glass-Drop-White.png"
+				},
+				"50420 4000": {
+					"metal": "Chrome",
+					"colour": null,
+					"image": "ttps://www.lodes.com/wp-content/uploads/2021/03/Glass-Drop-Chrome.png"
+				}
+			}
+		}
+	}
+}

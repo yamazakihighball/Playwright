@@ -1,0 +1,238 @@
+{
+	"description": "A-Tube Nano reinterprets the A-Tube collection with a lamp that expresses light in its purest form, tracing an elegant luminous line in space As thin as a pin, it draws its intrinsic strength from the simplicity of a graphic element, the line, which gently defines the atmosphere with a design that is as simple and light as it is refined and functional.\nAt the lower end of the slender aluminium structure, which measures only 2 cm in diameter, is a small transparent methacrylate diffuser housing an LED module: this makes the light point appear almost suspended in the air.\n\nThe ultra-slim silhouette of A-Tube Nano is offered in three lengths – Small, Medium, and Large – and six finishes, ranging from glossy tones for a contemporary elegance to matte colours for more minimalist interiors.\n\nIn the ceiling-recessed version, A-Tube Nano allows for the light beam to be directed at will, thanks to the joint angle of the lamp body, which enables the thin aluminium structure to be easily adjusted by up to 30° to direct the light onto specific details or emphasise the scenic effect of a composition with multiple elements.\n\nIn addition to offering new compositional applications, the recessed version allows for lighting solutions that meet specific design needs, such as lively rhythms – achieved by repeating a single size and directing the light beams in various directions – or more dynamic patterns – created by alternating the different sizes – ideal for illuminating lobbies or entrances to large public spaces.\n\nIn the pendant version, A-Tube Nano can be used individually to illuminate a romantic table for two or medium-sized tables in a bistro; in compositions, it allows for free combinations of finishes and lengths, even alternating the two versions to create evocative and customised lighting solutions that define the atmosphere of any space, from a designer restaurant to the living area of a contemporary home, or an airport lounge or hotel lobby. The versatility of the pendant version extends to the cable from which it is delicately",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-06.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-Ceiling-02-scaled.jpg"
+	],
+	"products": {
+		"A-Tube Nano Swing large": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56635&variantID=56182&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/158IS30E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-large-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/15834.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/A%E2%80%93Tube-Nano-Swing-large-1.png",
+			"light_source": [
+				"LED\n2700 K\n3 W\n450 lm\n350 mA\nCRI 90\nMacAdam 3-Step",
+				"LED\n3000 K\n3 W\n480 lm\n350 mA\nCRI 90\nMacAdam 3-Step"
+			],
+			"skus": {
+				"15834 2020": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-MatteBlack.png"
+				},
+				"15834 4020": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Chrome.png"
+				},
+				"15834 4520": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-MatteChampagne.png"
+				},
+				"15834 5020": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Gold.png"
+				},
+				"15834 5520": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-RoseGold.png"
+				},
+				"15834 6720": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Terra.png"
+				},
+				"15834 2035": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-MatteBlack.png"
+				},
+				"15834 4035": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Chrome.png"
+				},
+				"15834 4535": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-MatteChampagne.png"
+				},
+				"15834 5035": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Gold.png"
+				},
+				"15834 5535": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-RoseGold.png"
+				},
+				"15834 6735": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-large-ceiling-Terra.png"
+				}
+			}
+		},
+		"A-Tube Nano Swing medium": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56635&variantID=56096&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/158IS30E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-medium-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/15833.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/A%E2%80%93Tube-Nano-Swing-medium-1.png",
+			"light_source": [
+				"LED\n2700 K\n3 W\n450 lm\n350 mA\nCRI 90\nMacAdam 3-Step",
+				"LED\n3000 K\n3 W\n480 lm\n350 mA\nCRI 90\nMacAdam 3-Step"
+			],
+			"skus": {
+				"15833 2020": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-MatteBlack.png"
+				},
+				"15833 4020": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Chrome.png"
+				},
+				"15833 4520": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-MatteChampagne.png"
+				},
+				"15833 5020": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Gold.png"
+				},
+				"15833 5520": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-RoseGold.png"
+				},
+				"15833 6720": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Terra.png"
+				},
+				"15833 2035": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-MatteBlack.png"
+				},
+				"15833 4035": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Chrome.png"
+				},
+				"15833 4535": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-MatteChampagne.png"
+				},
+				"15833 5035": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Gold.png"
+				},
+				"15833 5535": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-RoseGold.png"
+				},
+				"15833 6735": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-medium-ceiling-Terra.png"
+				}
+			}
+		},
+		"A-Tube Nano Swing small": {
+			"mount": "ceiling",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56635&variantID=56053&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/158IS30E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/A–Tube-Nano-Swing-small-2D-1.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/15832.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/A%E2%80%93Tube-Nano-Swing-small-1.png",
+			"light_source": [
+				"LED\n2700 K\n3 W\n450 lm\n350 mA\nCRI 90\nMacAdam 3-Step",
+				"LED\n3000 K\n3 W\n480 lm\n350 mA\nCRI 90\nMacAdam 3-Step"
+			],
+			"skus": {
+				"15832 2020": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-MatteBlack.png"
+				},
+				"15832 4020": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Chrome.png"
+				},
+				"15832 4520": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-MatteChampagne.png"
+				},
+				"15832 5020": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Gold.png"
+				},
+				"15832 5520": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-RoseGold.png"
+				},
+				"15832 6720": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Terra.png"
+				},
+				"15832 2035": {
+					"metal": "Matte Black – 9005",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-MatteBlack.png"
+				},
+				"15832 4035": {
+					"metal": "Chrome",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Chrome.png"
+				},
+				"15832 4535": {
+					"metal": "Champagne",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-MatteChampagne.png"
+				},
+				"15832 5035": {
+					"metal": "Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Gold.png"
+				},
+				"15832 5535": {
+					"metal": "Rose Gold",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-RoseGold.png"
+				},
+				"15832 6735": {
+					"metal": "Terra",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/A-Tube-Nano-Swing-small-ceiling-Terra.png"
+				}
+			}
+		}
+	}
+}

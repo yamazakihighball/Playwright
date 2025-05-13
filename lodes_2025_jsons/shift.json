@@ -1,0 +1,235 @@
+{
+	"description": "Shift is a wall lamp with impressive luminous power. Designed by Marco Piva, it redefines the concept of a wall lamp, integrating with spaces in perfect harmony: compact and discreet, its neutral finishes further enhance its ability to blend into its surroundings, almost disappearing to allow the light to take centre stage, fostering and enriching its interplay with the space.\nThe understated, minimalist design draws on the clean, rigorous lines of contemporary architecture, softened by subtly rounded corners. The entirely black internal structure enhances the power of the light beam – exceeding 5,000 lm in the Large version – and ensures uniform light distribution and high quality, while the LED source is strategically positioned to amplify the luminous effect and prevent unwanted shadows on the walls.\n\nCrafted from aluminium, Shift is available in two sizes – Small and Large – and four sophisticated finishes: matte black, matte white, extra-matte champagne, and the new natural brown. These finishes are designed to complement various settings while accentuating the lamp’s clean and essential lines. Shift is equipped with two interchangeable screens that adjust the light’s perception and angle: it comes pre-assembled with a transparent screen, which can be easily replaced with a sandblasted screen to create a more diffused wall effect and reduce light projection onto the ceiling.\n\nThanks to its high luminous output, Shift can effectively illuminate medium-sized spaces on its own. From hotel bedrooms to residential living areas, it creates captivating interactions between light and space, offering high-performance lighting solutions with a sophisticated yet understated presence. Shift is also ideal for stairwells and corridors, where it can be installed in sequences, as well as in rooms with low ceilings or exposed beams that deserve to be highlighted.\n\nThe lamp is available with both DALI and TRIAC drivers, ensuring greater flexibility to suit various needs.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-07.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-08.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-06.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-03.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Shift-Wall-02-scaled.jpg"
+	],
+	"products": {
+		"Shift Large": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56647&variantID=55922&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/215IS50E0001_Rev00_PRINT.zip",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2025/01/21552_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/21552.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 32,5 W\n↙ 5085 lm\n↙ 700 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 32,5 W\n↙ 5255 lm\n↙ 700 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"21552 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteWhite.png"
+				},
+				"21552 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteBlack.png"
+				},
+				"21552 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteChampagne.png"
+				},
+				"21552 6927": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-NaturalBrown.png"
+				},
+				"21552 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteWhite.png"
+				},
+				"21552 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteBlack.png"
+				},
+				"21552 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteChampagne.png"
+				},
+				"21552 6930": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-NaturalBrown.png"
+				}
+			}
+		},
+		"Shift Small": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56647&variantID=56031&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/215IS50E0001_Rev00_PRINT.zip",
+			"photometric_diagram": "https://www.lodes.com/wp-content/uploads/2025/01/21551_Rev00_CE.zip",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/21551.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 16 W\n↙ 2495 lm\n↙ 500 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 16 W\n↙ 2580 lm\n↙ 500 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"21551 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteWhite.png"
+				},
+				"21551 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteBlack.png"
+				},
+				"21551 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteChampagne.png"
+				},
+				"21551 6927": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-NaturalBrown.png"
+				},
+				"21551 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteWhite.png"
+				},
+				"21551 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteBlack.png"
+				},
+				"21551 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteChampagne.png"
+				},
+				"21551 6930": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-NaturalBrown.png"
+				}
+			}
+		},
+		"Shift Large Dali": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56647&variantID=56746&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/215IS50E0001_Rev00_PRINT.zip",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/21554.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large.png",
+			"light_source": [
+				"LED\n2700 K\n32,5 W\n5085 lm\n700 mA\nCRI 90\nMacAdam 3-Step",
+				"LED\n3000 K\n32,5 W\n5255 lm\n700 mA\nCRI 90\nMacAdam 3-Step"
+			],
+			"skus": {
+				"21554 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteWhite.png"
+				},
+				"21554 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteBlack.png"
+				},
+				"21554 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteChampagne.png"
+				},
+				"21554 6927": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-NaturalBrown.png"
+				},
+				"21554 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteWhite.png"
+				},
+				"21554 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteBlack.png"
+				},
+				"21554 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-MatteChampagne.png"
+				},
+				"21554 6930": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-large-NaturalBrown.png"
+				}
+			}
+		},
+		"Shift Small Dali": {
+			"mount": "wall",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56647&variantID=56738&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/215IS50E0001_Rev00_PRINT.zip",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/21553.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small.png",
+			"light_source": [
+				"LED\n2700 K\n16 W\n2495 lm\n500 mA\nCRI 90\nMacAdam 3-Step",
+				"LED\n3000 K\n16 W\n2580 lm\n500 mA\nCRI 90\nMacAdam 3-Step"
+			],
+			"skus": {
+				"21553 1027": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteWhite.png"
+				},
+				"21553 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteBlack.png"
+				},
+				"21553 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteChampagne.png"
+				},
+				"21553 6927": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-NaturalBrown.png"
+				},
+				"21553 1030": {
+					"metal": "Matte White – 9010",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteWhite.png"
+				},
+				"21553 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteBlack.png"
+				},
+				"21553 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-MatteChampagne.png"
+				},
+				"21553 6930": {
+					"metal": "Natural Brown",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Shift-small-NaturalBrown.png"
+				}
+			}
+		}
+	}
+}

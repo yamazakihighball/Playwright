@@ -1,0 +1,395 @@
+{
+	"description": "Created in collaboration with Needs Studio, Tidal is an elegant collection of lamps with exceptional luminous efficiency. Their fluid and impactful design captures the essence of the movements of celestial bodies, waves, and tides. The lamps appear different depending on how they are viewed from below, thanks to the rings’ irregular, asymmetrical shape, with one side wider than the other. Available in two configurations – ceiling-mounted and pendant – Tidal integrates seamlessly into diverse settings, from residential to professional environments and even contract projects. It offers lighting solutions that illuminate and decorate, whether used individually or in repetition, while exploring the interplay of the collection’s various configurations and dimensions.\n\nIn the stand-alone pendant version, the lamp’s main body has been redesigned with a double-shell structure that balances direct and indirect light emission, preventing glare. This design adds an extra sense of twist and dynamism to the ring, which appears to hover in the air with a light, refined presence, transforming any space with its soft, dynamic lighting effect.\n\nThe lamp’s compact body, with its limited thickness, houses a powerful light source delivering over 6,000 lm. Light is projected simultaneously upwards and downwards, achieving a perfect 50-50 balance between direct and indirect illumination. The intensity of both light sources can be controlled through dual switching.\n\nThe lamp is suspended by three thin cables anchored to a circular ceiling canopy specifically designed for this suspension. Made of matte metal in two finishes, white or black, it has a slightly smaller diameter than the ring, blending into the space and creating the impression of floating within the ceiling – thin and light.\n\nIn this version, Tidal is available in two models: a standard suspension with cables approximately 4 m long, and a suspension with an adjustable rise and fall mechanism. The rise and fall version allows the suspension cable length to be adjusted up to 1.5 m from the ceiling. By simply grasping the lamp body with both hands, it can be raised or lowered to the desired height. This flexibility lets users freely adapt the lighting to suit the needs of any environment, changing the atmosphere without the need to reposition the lamp.\n\nA single size – 60 cm in diameter – is available in the four matte finishes that characterise the family: white, earth, champagne, and black. This versatility makes Tidal suitable for a wide range of applications, whether used individually or in repetition, depending on the length of the surface to be illuminated. The rise and fall variant is particularly well-suited for the F&B and hospitality sectors, as it allows the lamp height to be quickly and easily adjusted to accommodate different table configurations, from intimate settings for two to larger groups.\n\nThe lamp is available with both DALI and TRIAC drivers, ensuring greater flexibility to suit various needs.\n\n*Currently, the rise and fall variant is not available in the North American market.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-07.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-08.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-01.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-02-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-05.jpg",
+		"https://www.lodes.com/wp-content/uploads/2023/01/Tidal-Suspension-06.jpg",
+		"https://www.lodes.com/wp-content/uploads/2025/01/Tidal-suspension-72-RGB-3-scaled.jpg"
+	],
+	"products": {
+		"Tidal Adjustable": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56777&variantID=56658&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/231IS20E0002_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Adjustable-suspension-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/1992X.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Adjustable-suspension.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 33 W\n↙ 6120 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 33 W\n↙ 6630 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"19923 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19923 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19923 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19923 6727": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19924 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19924 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19924 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19924 6727": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19923 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19923 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19923 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19923 6730": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19924 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19924 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19924 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19924 6730": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				}
+			}
+		},
+		"Tidal Adjustable Dali": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56777&variantID=56717&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/231IS20E0002_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Adjustable-suspension-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/1992X.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Adjustable-suspension.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 33 W\n↙ 6120 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 33 W\n↙ 6630 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"19927 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19927 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19927 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19927 6727": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19928 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19928 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19928 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19928 6727": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19927 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19927 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19927 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19927 6730": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19928 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19928 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19928 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19928 6730": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				}
+			}
+		},
+		"Tidal Dali": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56777&variantID=56716&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/231IS20E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/1992X.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 33 W\n↙ 6120 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 33 W\n↙ 6630 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"19925 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19925 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19925 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19925 6727": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19926 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19926 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19926 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19926 6727": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19925 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19925 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19925 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19925 6730": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19926 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19926 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19926 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19926 6730": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				}
+			}
+		},
+		"Tidal": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=56777&variantID=55788&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2025/01/231IS20E0001_Rev00_CE_PRINT.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2025/01/1992X.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 33 W\n↙ 6120 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step",
+				"LED\n↙ 3000 K\n↙ 33 W\n↙ 6630 lm\n↙ 350+350 mA\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"19921 1027": {
+					"metal": "Matte White – 9010",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19921 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19921 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19921 6727": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19922 1027": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19922 2027": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19922 4527": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19922 6727": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19921 1030": {
+					"metal": "Matte White – 9010",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19921 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19921 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19921 6730": {
+					"metal": "Terra",
+					"colour": "Matte White – 9016",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				},
+				"19922 1030": {
+					"metal": "Matte White – 9016",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteWhite.png"
+				},
+				"19922 2030": {
+					"metal": "Matte Black – 9005",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteBlack.png"
+				},
+				"19922 4530": {
+					"metal": "Extra Matte Champagne",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-MatteChampagne.png"
+				},
+				"19922 6730": {
+					"metal": "Terra",
+					"colour": "Matte Black – 9005",
+					"image": "https://www.lodes.com/wp-content/uploads/2025/01/Tidal-Suspension-Terra.png"
+				}
+			}
+		}
+	}
+}

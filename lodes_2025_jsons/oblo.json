@@ -1,0 +1,211 @@
+{
+	"description": "Oblò is a pendant lamp with a distinctly decorative character that combines Lodes’ expertise in versatile and modular lighting solutions with the unique and distinctive personality of Paola Navone – OTTO Studio. With its playful spirit and numerous references to the sea and the nautical world, Oblò evokes marine imagery and offers new insights into the use of Pyrex in lighting, shaping it like a liquid material into the product’s fluid silhouette.\nThe frame supporting the diffuser is shaped like a hook, to which a white cloth-covered cable is knotted: Lodes ingeniously concealed the electrical wiring within the fabric cable and the LED within the hook, leaving only the glass visible, creating the impression that the lamp floats in the air like a buoy.\n\nOblò is available in three gentle forms and five finishes reminiscent of the marine world – iridescent, metallic blue, silk white, smoky grey, and transparent – highlighting the metallisation process that enhances the diffuser glass. It offers high luminosity even when installed on its own, serving as an elegant light point above a coffee table or beside a bathroom cabinet. In group compositions, different shapes and finishes can play with alternating rhythms and movements, thanks to the ability to install the lamps at various heights. This versatility makes it suitable for any space and situation, from compositions of two or three elements in private homes and restaurants to large cascades of light above long tables or expansive living areas.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_largemedium_rainbowazuresteel-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/17-Oblo-small-medium-and-large-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_smal-azure-steel_large-clear-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_silk-white-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_large-silkwhite_small-glossysmoke_medium-clear-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_small-clear-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_rainbow-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/12-Oblo-small-and-medium_Clear-and-Silk-White-scaled.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/09/Oblo_large_azuresteel-scaled.jpg"
+	],
+	"products": {
+		"Oblò large": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=53517&variantID=53064&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/218IS10E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/08/21813.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 7 W\n↙ 1280 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 7 W\n↙ 1300 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"21813 0027": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-Clear-1.png"
+				},
+				"21813 1327": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-SilkWhite-1.png"
+				},
+				"21813 0127": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-Iridescent-1.png"
+				},
+				"21813 4327": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-GlossySmoke-1.png"
+				},
+				"21813 8627": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-AzureSteel-1.png"
+				},
+				"21813 0030": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-Clear-1.png"
+				},
+				"21813 1330": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-SilkWhite-1.png"
+				},
+				"21813 0130": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-Iridescent-1.png"
+				},
+				"21813 4330": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-GlossySmoke-1.png"
+				},
+				"21813 8630": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-large-AzureSteel-1.png"
+				}
+			}
+		},
+		"Oblò medium": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=53517&variantID=53014&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/218IS10E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/08/21812.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 7 W\n↙ 1280 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 7 W\n↙ 1300 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"21812 0027": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-Clear.png"
+				},
+				"21812 1327": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-SilkWhite.png"
+				},
+				"21812 0127": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-Iridescent.png"
+				},
+				"21812 4327": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-GlossySmoke.png"
+				},
+				"21812 8627": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-AzureSteel.png"
+				},
+				"21812 0030": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-Clear.png"
+				},
+				"21812 1330": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-SilkWhite.png"
+				},
+				"21812 0130": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-Iridescent.png"
+				},
+				"21812 4330": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-GlossySmoke.png"
+				},
+				"21812 8630": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-medium-AzureSteel.png"
+				}
+			}
+		},
+		"Oblò small": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=53517&variantID=52950&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/08/218IS10E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/08/21811.zip",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small.png",
+			"light_source": [
+				"LED\n↙ 2700 K\n↙ 7 W\n↙ 1280 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step",
+				"LED\n↙ 3000 K\n↙ 7 W\n↙ 1300 lm\n↙ 350 mA\n↙ CRI 90\n↙ MacAdam 3- Step"
+			],
+			"skus": {
+				"21811 0027": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-Clear.png"
+				},
+				"21811 1327": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-SilkWhite.png"
+				},
+				"21811 0127": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-Iridescent.png"
+				},
+				"21811 4327": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-GlossySmoke.png"
+				},
+				"21811 8627": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-AzureSteel.png"
+				},
+				"21811 0030": {
+					"metal": "White",
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-Clear.png"
+				},
+				"21811 1330": {
+					"metal": "White",
+					"colour": "Silk White",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-SilkWhite.png"
+				},
+				"21811 0130": {
+					"metal": "White",
+					"colour": "Rainbow",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-Iridescent.png"
+				},
+				"21811 4330": {
+					"metal": "White",
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-GlossySmoke.png"
+				},
+				"21811 8630": {
+					"metal": "White",
+					"colour": "Azure Steel",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/08/Oblo-small-AzureSteel.png"
+				}
+			}
+		}
+	}
+}

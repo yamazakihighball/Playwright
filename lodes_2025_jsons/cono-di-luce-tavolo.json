@@ -1,0 +1,38 @@
+{
+	"description": "Lodes and internationally renowned artist and designer Ron Arad have joined forces to create Cono di Luce, a one-of-a-kind suspension lamp that combines the former’s cutting-edge expertise with the latter’s creativity.\n\nThe technology enclosed in Cono di Luce defines its identity. Using a flexible printed circuit board in a groundbreaking way, encapsulated within an element as simple as a transparent Pyrex® cone, the lamp exudes a dualism between on and off that is easily discernible.\n\nThe frame, also made of PCB, thanks to its 1.6 mm thickness, has several functions: to provide support for the lamp and enable it to be switched on, as well as to keep the PCB sheet in the right position.\n\nWhen illuminated, Cono di Luce reveals its true decorative essence, boasting an optical interplay of lights, shadows, and overlapping patterns that showcase the designer’s creative flair and Lodes’ renowned manufacturing expertise.\n\nIt is available in three frame finishes: red, grey and gold, and in two variants, table and suspension.\n\nCono di Luce is proposed as a design element for sophisticated environments, embodying the values shared by Lodes and Ron Arad: to create a collection that is both accessible and highly efficient in light.",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-06.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-07.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-10.jpg"
+	],
+	"products": {
+		"Cono di Luce": {
+			"mount": "table",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=47961&variantID=47864&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/01/210IS80E0001_Rev00_PRINT.pdf",
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-2D.pdf",
+			"diagram_3d": "https://www.lodes.com/wp-content/uploads/2024/01/21010ME_Tavolo-50.7z",
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-si-Luce.png",
+			"light_source": [
+				"↙ 2700 K\n↙ 7,5 W\n↙ 1307 lm\n↙ 5 V / 1,5 A\n↙ CRI 90\n↙ MacAdam 3-Step"
+			],
+			"skus": {
+				"21080 3227": {
+					"metal": "Clear",
+					"colour": "Grey",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-Grey.png"
+				},
+				"21080 5027": {
+					"metal": "Clear",
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-Gold.png"
+				},
+				"21080 6027": {
+					"metal": "Clear",
+					"colour": "Red",
+					"image": "https://www.lodes.com/wp-content/uploads/2024/01/Cono-di-Luce-Red.png"
+				}
+			}
+		}
+	}
+}

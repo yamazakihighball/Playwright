@@ -1,0 +1,28 @@
+{
+	"description": "",
+	"gallery": [
+		"https://www.lodes.com/wp-content/uploads/2024/05/Cross-04.jpg",
+		"https://www.lodes.com/wp-content/uploads/2024/05/Cross-05.jpg"
+	],
+	"products": {
+		"CROSS": {
+			"mount": "pendant",
+			"specs_sheet": "https://www.lodes.com/en/generazione-scheda-tecnica/?prodID=51755&variantID=51465&code=eu&lng=en",
+			"assembly_instruction": "https://www.lodes.com/wp-content/uploads/2024/05/524IS20E0001_Rev00_CE_print.pdf",
+			"photometric_diagram": null,
+			"diagram_2d": "https://www.lodes.com/wp-content/uploads/2024/05/Cross-2D.pdf",
+			"diagram_3d": null,
+			"technical_drawings": "https://www.lodes.com/wp-content/uploads/2024/05/Cross.png",
+			"light_source": [
+				"E27 LED\n1x Max 25 W\n"
+			],
+			"skus": {
+				"52420 5600": {
+					"metal": "Ivory",
+					"colour": null,
+					"image": "https://www.lodes.com/wp-content/uploads/2024/05/Cross-1.png"
+				}
+			}
+		}
+	}
+}
