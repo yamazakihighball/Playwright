@@ -113,7 +113,7 @@ async function processProductFiles() {
             }
         } 
 
-        console.log(productQueue[0]);
+        console.log(productQueue);
 
         // // Sequentially post products with 2s delay
         // await postProductsWithInterval(productQueue, 1000);
