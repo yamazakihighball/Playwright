@@ -31,6 +31,39 @@ function readFileJson(file) {
     return require(path.join(full_path, file));
 }
 
+function parseLightingData(data) {
+  const lightingData = {};
+
+  // Wattage: match things like "13 W", "max 48 W", etc.
+  const wattMatch = data.match(/(?:max\s*)?(\d+)\s*W/i);
+  if (wattMatch) {
+    lightingData.option_6 = wattMatch[1] + ' W';
+  }
+
+  // Bulb type/socket: G9, E14, or LED
+  if (/G9/i.test(data)) {
+    lightingData.option_3 = 'G9';
+  } else if (/E14/i.test(data)) {
+    lightingData.option_3 = 'E14';
+  } else if (/LED/i.test(data)) {
+    lightingData.option_3 = 'LED';
+  }
+
+  // Lumen: extract number before "lm"
+  const lumenMatch = data.match(/(\d+)\s*lm/i);
+  if (lumenMatch) {
+    lightingData.volume = lumenMatch[1];
+  }
+
+  // CRI: e.g., "CRI>85"
+  const criMatch = data.match(/CRI\s*>\s*(\d+)/i);
+  if (criMatch) {
+    lightingData.option_8 = `CRI>${criMatch[1]}`;
+  }
+
+  return lightingData;
+}
+
 async function processProductFiles() {
     try {
         const files = await fs.readdir(full_path);
@@ -45,10 +78,10 @@ async function processProductFiles() {
             let file_json = readFileJson(file);
             let path_name = file.replace('.json', '');
 
-            let product = { page_status: 'Live', path_name: path_name };
             const data = file_json[0];
             
             for (const sku of data.technical_info[0]['Technical Information Color']) {
+                let product = { page_status: 'Live', path_name: path_name };
                 // console.log(sku);
                 product.page_name = path_name + ' ' + sku.Code;
                 product.title = path_name + ' ' + sku.Code;
@@ -96,6 +129,18 @@ async function processProductFiles() {
 
                 // lighting parse
                 const lightingData = data.technical_info[0]['Technical Information Source Bulb'];
+                const dataParsed = parseLightingData(lightingData);
+                // console.log(dataParsed);
+                product.option_6 = dataParsed.option_6;
+                product.option_3 = dataParsed.option_3;
+                
+                if (dataParsed.volume) {
+                    product.volume = dataParsed.volume;
+                }
+
+                if (dataParsed.option_8) {
+                    product.option_8 = dataParsed.option_8;
+                }
 
 
                 //slider images
@@ -113,7 +158,7 @@ async function processProductFiles() {
             }
         } 
 
-        console.log(productQueue[0]);
+        console.log(productQueue);
 
         // // Sequentially post products with 2s delay
         // await postProductsWithInterval(productQueue, 1000);

@@ -20,7 +20,12 @@
 				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-3319-1920x1080-slider03.jpg"
 			}
 		],
-		"technical_data": [],
+		"technical_data": [
+			{
+				"Heading Desc": "Floor lamp giving direct light, lacquered metal base, chromium-plated stem, adjustable reflector in lacquered aluminium.",
+				"Heading Image": "https://www.oluce.com/wp-content/uploads/2017/07/img-tecnica-Spider3319.jpg"
+			}
+		],
 		"technical_info": [
 			{
 				"Technical Information Code": "3319",

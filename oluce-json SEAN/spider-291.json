@@ -26,7 +26,12 @@
 				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-291-black-yellow-mustard-1920x1080-slider04.jpg"
 			}
 		],
-		"technical_data": [],
+		"technical_data": [
+			{
+				"Heading Desc": "Table lamp giving direct light, lacquered metal base, chromium-plated stem, adjustable reflector in lacquered aluminium.",
+				"Heading Image": "https://www.oluce.com/wp-content/uploads/2017/07/img-tecnica-spider291.jpg"
+			}
+		],
 		"technical_info": [
 			{
 				"Technical Information Code": "291",

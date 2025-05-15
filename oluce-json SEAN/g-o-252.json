@@ -35,7 +35,12 @@
 				"Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-GO-252-gallery08.jpg"
 			}
 		],
-		"technical_data": [],
+		"technical_data": [
+			{
+				"Heading Desc": "Lacquered metal table lamp giving direct light with adjustable stem and reflector. Base and reflector available in 3 colors: black, anodic bronze and scarlet red. With on/off switch.",
+				"Heading Image": "https://www.oluce.com/wp-content/uploads/2022/06/OLU-go-252-silhouette.png"
+			}
+		],
 		"technical_info": [
 			{
 				"Technical Information Code": "252",
