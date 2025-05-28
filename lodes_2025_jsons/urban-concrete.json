@@ -17,15 +17,18 @@
 			"skus": {
 				"50210 6100": {
 					"metal": "White",
-					"colour": "Pink Dust"
+					"colour": "Pink Dust",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Pink-Dust.png"
 				},
 				"50210 3100": {
 					"metal": "White",
-					"colour": "Tough Gray"
+					"colour": "Tough Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Tough-Gray.png"
 				},
 				"50210 3000": {
 					"metal": "White",
-					"colour": "Soft Gray"
+					"colour": "Soft Gray",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Soft-Gray.png"
 				}
 			}
 		},
@@ -44,17 +47,17 @@
 				"50221 6100": {
 					"metal": "White",
 					"colour": "Pink Dust",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Pink-Dust.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Pink-Dust.png"
 				},
 				"50221 3100": {
 					"metal": "White",
 					"colour": "Tough Gray",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Tough-Gray.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Tough-Gray.png"
 				},
 				"50221 3000": {
 					"metal": "White",
 					"colour": "Soft Gray",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-25-Soft-Gray.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Soft-Gray.png"
 				}
 			}
 		},
@@ -73,17 +76,17 @@
 				"50222 6100": {
 					"metal": "White",
 					"colour": "Pink Dust",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Pink-Dust.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-60-Pink-Dust.png"
 				},
 				"50222 3100": {
 					"metal": "White",
 					"colour": "Tough Gray",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Tough-Gray.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-60-Tough-Gray.png"
 				},
 				"50222 3000": {
 					"metal": "White",
 					"colour": "Soft Gray",
-					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-50-Soft-Gray.png"
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Urban-Concrete-60-Soft-Gray.png"
 				}
 			}
 		},

@@ -11,7 +11,7 @@
 		],
 		"slider_imgs": [
 			{
-				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-291-black-yellow-mustard-1920x1080-slider01.jpg"
+				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-291-black-yellow-Black-slider01.jpg"
 			},
 			{
 				"Image": "https://www.oluce.com/wp-content/uploads/2024/02/OLU-spider-291-black-yellow-mustard-1920x1080-slider02.jpg"
@@ -40,11 +40,11 @@
 				"Technical Information Color": [
 					{
 						"Code": "291.GM",
-						"Colour": "Black"
+						"Colour": "Mustard Yellow"
 					},
 					{
 						"Code": "291.NE",
-						"Colour": "Mustard Yellow"
+						"Colour": "Black"
 					}
 				]
 			}

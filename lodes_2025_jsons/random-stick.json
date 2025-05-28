@@ -47,7 +47,201 @@
 					"metal": "Polished Gold",
 					"colour": "Chrome"
 				}
-			}
+			},
+			"structure": [
+				{
+					"colour": "Matte White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/ST-1.png"
+				},
+				{
+					"colour": "Black Chome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/ST-2.png"
+				},
+				{
+					"colour": "Polished Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/ST-3.png"
+				}
+			],
+			"Sphere Ø 14 cm ⁄ 5,51": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/A-17112V-55.png"
+				}
+			],
+			"Sphere Ø 10 cm ⁄ 3,93”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/B-17110V-55.png"
+				}
+			],
+			"Sphere Ø 12 cm ⁄ 4,72”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/C-17111V-55.png"
+				}
+			],
+			"Sphere Ø 18 cm ⁄ 7,08”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/D-17113V-55.png"
+				}
+			],
+			"Sphere Ø 10 cm ⁄ 3,93”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/E-17110V-55.png"
+				}
+			],
+			"Sphere Ø 18 cm ⁄ 7,08”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/long/F-17113V-55.png"
+				}
+			]
 		},
 		"Random Stick short": {
 			"mount": "pendant",
@@ -86,7 +280,141 @@
 					"metal": "Polished Gold",
 					"colour": "Chrome"
 				}
-			}
+			},
+			"structure": [
+				{
+					"colour": "Matte White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/ST-1.png"
+				},
+				{
+					"colour": "Black Chome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/ST-2.png"
+				},
+				{
+					"colour": "Polished Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/ST-3.png"
+				}
+			],
+			"Sphere Ø 10 cm ⁄ 3,93”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/A-17110V-55.png"
+				}
+			],
+			"Sphere Ø 12 cm ⁄ 4,72”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/B-17111V-55.png"
+				}
+			],
+			"Sphere Ø 14 cm ⁄ 5,51": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/C-17112V-55.png"
+				}
+			],
+			"Sphere Ø 10 cm ⁄ 3,93”": [
+				{
+					"colour": "Transparent",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-00.png"
+				},
+				{
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-13.png"
+				},
+				{
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-40.png"
+				},
+				{
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-43.png"
+				},
+				{
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-46.png"
+				},
+				{
+					"colour": "Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-50.png"
+				},
+				{
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/frontend-configurator/randomstick/short/D-17110V-55.png"
+				}
+			]
 		}
 	}
 }

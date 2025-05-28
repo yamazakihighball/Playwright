@@ -29,59 +29,73 @@
 			"skus": {
 				"16410 0027": {
 					"metal": "Chrome",
-					"colour": "Clear"
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Clear.png"
 				},
 				"16410 1327": {
 					"metal": "Chrome",
-					"colour": "Frosted White"
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Frosted-White.png"
 				},
 				"16410 4027": {
 					"metal": "Chrome",
-					"colour": "Chrome"
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Chrome.png"
 				},
 				"16410 4327": {
 					"metal": "Chrome",
-					"colour": "Glossy Smoke"
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Glossy-Smoke.png"
 				},
 				"16410 5027": {
 					"metal": "Chrome",
-					"colour": "Gold"
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Gold.png"
 				},
 				"16410 5527": {
 					"metal": "Chrome",
-					"colour": "Rose Gold"
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Rose-Gold.png"
 				},
 				"16410 4627": {
 					"metal": "Chrome",
-					"colour": "Glossy Bronze"
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Glossy-Bronze.png"
 				},
 				"16410 0030": {
 					"metal": "Chrome",
-					"colour": "Clear"
+					"colour": "Clear",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Clear.png"
 				},
 				"16410 1330": {
 					"metal": "Chrome",
-					"colour": "Frosted White"
+					"colour": "Frosted White",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Frosted-White.png"
 				},
 				"16410 4030": {
 					"metal": "Chrome",
-					"colour": "Chrome"
+					"colour": "Chrome",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Chrome.png"
 				},
 				"16410 4330": {
 					"metal": "Chrome",
-					"colour": "Glossy Smoke"
+					"colour": "Glossy Smoke",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Glossy-Smoke.png"
 				},
 				"16410 5030": {
 					"metal": "Chrome",
-					"colour": "Gold"
+					"colour": "Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Gold.png"
 				},
 				"16410 5530": {
 					"metal": "Chrome",
-					"colour": "Rose Gold"
+					"colour": "Rose Gold",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Rose-Gold.png"
 				},
 				"16410 4630": {
 					"metal": "Chrome",
-					"colour": "Glossy Bronze"
+					"colour": "Glossy Bronze",
+					"image": "https://www.lodes.com/wp-content/uploads/2021/03/Random-Glossy-Bronze.png"
 				}
 			}
 		}
